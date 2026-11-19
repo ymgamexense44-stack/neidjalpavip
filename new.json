@@ -1,0 +1,15 @@
+{
+  "matching_urls": ["https://pakvip1.xyz/#/skyrocket"],
+  "deposit_url": "https://pakvip1.xyz/#/wallet/recharge",
+  "login_url": "https://pakvip1.xyz/#/login",
+  "register_url": "https://pakvip1.xyz/#/register?invitationCode=238643231307",
+  "telegram_url": "https://www.whatsapp.com/channel/0029VbD40eGKrWQzqQWtLQ3e",
+  "home_url": "https://pakvip1.xyz",
+  "minimum_deposit_number": 500,
+  "allowed_numbers": ["3676283150"],
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/loginfailed.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/registeraudio.mp3",
+  "home_audio": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/newaccountregistered.mp3",
+  "audio_deposit_failed": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/matchingurldepositfailed.mp3",
+  "audio_deposit_verified": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/matchingurldepositverified.mp3"
+}
